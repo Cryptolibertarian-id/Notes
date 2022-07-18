@@ -47,7 +47,7 @@
 
 # Centre
 
-An open source, smart contract-based stablecoin
+[Centre](https://www.centre.io/usdc) is an open source, smart contract-based stablecoin
 
 True financial interoperability requires a price stable means of value exchange. Centre’s technology for fiat-backed stablecoins brings stability to crypto. The initial implementation is USD Coin (USDC), available as an :
 
