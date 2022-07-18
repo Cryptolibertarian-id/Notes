@@ -2,7 +2,9 @@
 
 
 
+# Supplement
 
+https://www.circle.com/en/the-money-movement
 
 
 
@@ -91,3 +93,18 @@ Multichain USDC Swap API is designed to meet the needs of wallets, exchanges, cu
 # Polygon Bridge
 
 Polygon USDC is a ‘bridged’ version of USDC, which is created when the ‘native’ version of USDC on Ethereum is bridged to the Polygon network via the [Polygon Bridge](https://wallet.polygon.technology/). A bridge connects two blockchains and enables users to bring digital assets from one chain to the other.
+
+
+
+# Polygon Staking
+
+https://polygon.olvy.co/new-polygon-staking-service-is-live
+
+
+
+# Polygon
+
+Polygon USDC offers fast and efficient transactions, typically at a fraction of the cost of sending USDC on the Ethereum network. Known as a ‘layer 2’ scaling solution, Polygon is designed to run decentralized applications (dApps) built for Ethereum, enabling developers to easily scale their dApps to run on faster, more efficient infrastructure and unlock access to Web3 commerce, decentralized finance (DeFi), NFTs and more for a broad set of new users. As of May 2022, Polygon already hosts more than 19,000 dApps and over 2.7 million monthly active wallets. [1]
+
+[1] [ Polygon.technology ](http://polygon.technology/)and [polygon.technology/ecosystem](http://polygon.technology/ecosystem). (last accessed May 23, 2022 10:07 AM PST)
+

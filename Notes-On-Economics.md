@@ -35,3 +35,27 @@ Being programmable unlocks a whole new world of applications and businesses: dev
 ## USDC
 
 USDC is the brainchild of CENTRE, an open source technology project bootstrapped by contributions from Circle and Coinbase. This organization will be responsible for governing USDC and is dedicated to connecting every person, merchant, financial institution and currency, everywhere. [Learn more about CENTRE.](https://www.centre.io/usdc)
+
+
+
+----
+
+
+
+# Macroeconomy
+
+The secret sauce for US growth has been that we’ve had strong population growth and strong gains in the labor force. One of the reasons the US economy has outperformed the economies of other developed nations for the last 30 or 40 years has been that we’ve had faster labor force growth. 
+
+It’s a very simple arithmetic equation: More workers, more GDP.
+
+US have been very dependent on immigration. That’s not new. This has been a nation of immigrants since its founding. If US not viewed as welcoming to talent from around the world, US have a problem going forward in terms of long-term growth.
+
+When we look at the information from individual companies and industries, we see that there is a labor shortage at all ends. We all know, for example, that right now one of the reasons behind the rise in service inflation has to do with an inadequate number of workers at airports, in hotels, in restaurants and so on. 
+
+Many economists, myself included, believe the so-called golden era of the 1950s, 1960s US economy was linked to our willingness to invest heavily in the future. 
+
+
+
+# Food Security
+
+Russia was a gigantic exporter of wheat. This is the basic food ingredient that keeps people from rioting. There’s a possibility this leads to revolution in populations that do not have control over their food and energy.
