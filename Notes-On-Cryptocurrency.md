@@ -64,8 +64,30 @@ Creating possibilities in payments, lending, investing, trading and trade financ
 
 
 
-**Dollar digital currency**
+# Cross-chain Swapping
+
+Cross-chain swapping in the Circle Account means it's also easier than ever to swap Polygon USDC for native USDC across [eight other supported blockchains](https://www.circle.com/en/multichain-usdc). 
+
+1. [ETHEREUM USDC](https://www.circle.com/en/usdc-multichain/ethereum)
+2. [ALGORAND USDC](https://www.circle.com/en/usdc-multichain/algorand)
+3. [SOLANA USDC](https://www.circle.com/en/usdc-multichain/solana)
+4. [STELLAR USDC](https://www.circle.com/en/usdc-multichain/stellar)
+5. [TRON USDC](https://www.circle.com/en/usdc-multichain/tron)
+6. [HEDERA USDC](https://www.circle.com/en/usdc-multichain/hedera)
+7. [AVALANCHE USDC](https://www.circle.com/en/usdc-multichain/avalanche)
+8. [FLOW USDC](https://www.circle.com/en/usdc-multichain/flow)
+9. [POLYGON USDC](https://www.circle.com/en/usdc-multichain/polygon)
+
+
+
+# **Dollar Digital Currency**
 
 Multichain USDC Swap API is designed to meet the needs of wallets, exchanges, custodians and other digital dollar stablecoin applications, reducing the friction to convert USDC across supported chains at no cost.
 
 [See Here](https://developers.circle.com/docs/swap-usdc-across-blockchains)
+
+
+
+# Polygon Bridge
+
+Polygon USDC is a ‘bridged’ version of USDC, which is created when the ‘native’ version of USDC on Ethereum is bridged to the Polygon network via the [Polygon Bridge](https://wallet.polygon.technology/). A bridge connects two blockchains and enables users to bring digital assets from one chain to the other.
