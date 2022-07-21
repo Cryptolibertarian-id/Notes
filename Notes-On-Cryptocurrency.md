@@ -2,14 +2,6 @@
 
 
 
-# Supplement
-
-https://www.circle.com/en/the-money-movement
-
-
-
-
-
 # To Do Solidity
 
 - The EVM in detail — memory / storage / opcodes / understanding bytecode
