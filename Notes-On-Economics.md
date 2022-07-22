@@ -76,15 +76,28 @@ Russia was a gigantic exporter of wheat. This is the basic food ingredient that 
 
 
 
-Every financial transaction has a climate consequence. Pretty much everything we buy has a carbon footprint. Our daily choices leave a carbon footprint. 
+Carbon offset credits (a/k/a “carbon offsets”, “carbon credits”). Every financial transaction has a climate consequence. Pretty much everything we buy has a carbon footprint. Our daily choices leave a carbon footprint. Carbon credits are generated in both the compliance and voluntary markets.
+
+
+
+---
 
 
 
 # Carbon Market
 
+The carbon market is split in two : 
+
+- The compliance side is driven by legislative obligations placed on businesses to reduce their carbon footprint. 
+- The voluntary side grew out of demands from consumers that the companies they buy from operate in the most carbon-neutral way possible.
+
 Carbon trading – or the carbon market – was first developed and introduced in the 1990s. In assigning a cost to the environmental damage of CO2 emissions, companies could, in theory, track and offset their own emissions. By purchasing carbon credits tied to ‘green projects’ in the marketplace, businesses across a range of industries could continue their practices while offsetting emissions and therefore reducing environmental damage. 
 
 For example, a mining company subjected to an emissions limit could purchase an offset credit owned by a forest owner who could agree to use that money to delay or reduce a harvest. This would then allow the mining company to pollute above their set limit, and use the avoided forest emissions as credit. 
+
+
+
+----
 
 
 
@@ -120,13 +133,23 @@ A **Carbon offset** is a **certificate representing the reduction** of one metri
 
 
 
+A carbon offset can be resold multiple times but once retired, it can no longer be resold. To ensure there is no double-sale, a carbon offset must be kept on a registry. This registry keeps track of the issuance and retirement of offsets.
+
 There is no fixed price on carbon, and the cost of an offset varies from project to project, depending on how expensive it is to run a given program, said Sarah Leugers, director of communications at The Gold Standard. In general, though, carbon offsets probably cost less than you think.
 
 If you develop a project that reduces carbon dioxide emissions, every ton of emissions reduced results in the creation of one carbon offset. Project developers can then sell these offsets to finance their projects. There are hundreds of different types of carbon reduction projects. For example, a dairy farm can install an anaerobic digester to capture and destroy methane that would otherwise be released when animal manure decomposes. However, such anaerobic digester projects are typically expensive to install and maintain. In order to finance the construction and operation of a digester project, a dairy farm can sell the emission reductions in the form of carbon offsets.
 
 Carbon offsets are therefore an available tool for individuals and organizations that wish to mitigate the impact of their own carbon footprints.
 
-## How are carbon offsets generated?
+
+
+----
+
+
+
+# Carbon Credit Generation
+
+Carbon credits are generated in both the compliance and voluntary markets
 
 Emission reduction projects reduce the amount of greenhouse gases in the atmosphere in one of three ways:
 
@@ -140,7 +163,7 @@ Some projects include more than one of these activities at the same time. For ex
 
 
 
-## Carbon Price
+# Carbon Price
 
 An[ ](https://www.weforum.org/agenda/2017/01/are-businesses-turning-up-the-heat-on-climate-change-top-5-trends-to-watch-in-2017)[informal survey](https://www.weforum.org/agenda/2017/01/are-businesses-turning-up-the-heat-on-climate-change-top-5-trends-to-watch-in-2017) in Davos 2017 found that the vast majority of CEOs believe carbon prices need to rise to $20 to effectively shift investments and more than half called for prices above $40 by 2025. Academia agrees -
 
@@ -148,7 +171,7 @@ Lord Nicholas Stern, Chair of the Grantham Research Institute, stated that "in o
 
 
 
-## Carbon Market Problem
+# Carbon Market Problem
 
 The market is beset by a lack of visibility, which prevents people from trusting the carbon credit as an asset. Differing standards and regulations in different jurisdictions and the potential for double counting (where the same credit is sold more than once) have resulted in a lack of confidence from potential market participants. And without a universal ledger it isn’t easy to track how much carbon you’ve used or – if you offset it – what the impact of your reduction has been on a tangible level.
 
@@ -156,7 +179,7 @@ Yet even if every country satisfied their Paris commitments to reduce carbon emi
 
 
 
-## Solution
+# Solution
 
 Put simply, blockchain is the name for a digital ledger in which transactions (often made with "tokens" or a cryptocurrency such as bitcoin) are recorded chronologically and publicly.
 
@@ -168,10 +191,22 @@ Applying this to carbon credits to create a "carbon currency" is the key to demy
 
 # Towards Business Model Innovation Of Carbon Credit
 
-
+Carbon-credit trading is set to hit $50 billion by 2030.
 
 Carbon Credit Settlement Platform 
 
 "Swift for the carbon markets"
 
 make carbon credits more accessible to everyone.
+
+
+
+
+
+# References :
+
+- Visa moves to allow payment settlements using cryptocurrency - [Click Here](https://www.reuters.com/business/autos-transportation/exclusive-visa-moves-allow-payment-settlements-using-cryptocurrency-2021-03-29/)
+- Visa Becomes First Major Payments Network to Settle Transactions in USD Coin (USDC) - [Click Here](https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.17821.html) - [Click Here](https://www.businesswire.com/news/home/20210329005171/en/) - [Click Here](https://www.bloomberg.com/press-releases/2021-03-29/visa-becomes-first-major-payments-network-to-settle-transactions-in-usd-coin-usdc)
+- Crypto.com Card - [Click Here](https://crypto.com/cards)
+- How to buy carbon credits to offset your footprint - [Click Here](https://climatetrade.com/how-to-buy-carbon-credits-to-offset-your-footprint/)
+- Want To Understand Carbon Credits? Read This - [Click Here](https://www.forbes.com/sites/erikkobayashisolomon/2020/03/13/want-to-understand-carbon-credits-read-this/?sh=490e4feb71aa)
