@@ -76,7 +76,7 @@ Russia was a gigantic exporter of wheat. This is the basic food ingredient that 
 
 
 
-Carbon offset credits (a/k/a “carbon offsets”, “carbon credits”). Every financial transaction has a climate consequence. Pretty much everything we buy has a carbon footprint. Our daily choices leave a carbon footprint. Carbon credits are generated in both the compliance and voluntary markets.
+Carbon offset credits (a/k/a “carbon offsets”, “carbon credits”). Every financial transaction has a climate consequence. Pretty much everything we buy has a carbon footprint. Our daily choices leave a carbon footprint. The average American generates 16 tons of CO2e a year through driving, shopping, using electricity and gas at home, and generally going through the motions of everyday life. Carbon credits are generated in both the compliance and voluntary markets.
 
 
 
@@ -91,6 +91,16 @@ The carbon market is split in two :
 - The compliance side is driven by legislative obligations placed on businesses to reduce their carbon footprint. 
 - The voluntary side grew out of demands from consumers that the companies they buy from operate in the most carbon-neutral way possible.
 
+
+
+---
+
+
+
+## Compliance Market
+
+The compliance markets start with interactions between large institutions – industrial manufacturers and other enterprises.
+
 Carbon trading – or the carbon market – was first developed and introduced in the 1990s. In assigning a cost to the environmental damage of CO2 emissions, companies could, in theory, track and offset their own emissions. By purchasing carbon credits tied to ‘green projects’ in the marketplace, businesses across a range of industries could continue their practices while offsetting emissions and therefore reducing environmental damage. 
 
 For example, a mining company subjected to an emissions limit could purchase an offset credit owned by a forest owner who could agree to use that money to delay or reduce a harvest. This would then allow the mining company to pollute above their set limit, and use the avoided forest emissions as credit. 
@@ -104,6 +114,19 @@ For example, a mining company subjected to an emissions limit could purchase an 
 # Carbon Credit
 
 **A Carbon Credit is an allowance for a company holding the credit to emit carbon emissions or greenhouse gases.** A single credit equals one ton of carbon dioxide to be emitted. Companies hold many credits, as many as they wish to purchase to balance out their emissions.
+
+
+
+---
+
+
+
+## Type of Carbon Credits
+
+There are two types of carbon credits:
+
+1. **Voluntary emissions reduction (VER):** A carbon credit from an offsetting project that has a third-party certification standard such as the [Gold Standard](https://www.goldstandard.org/) and many others, but isn't certified by the UN schemes such as the Clean Development Mechanism (CDM). It is exchanged in the over-the-counter voluntary market for credits. This can't be used to achieve obligations under the Kyoto Protocol. VER projects are certified but are not traded through a central government system.
+2. **Certified emissions reduction (CER):** A carbon credit that is backed by the UN and issues a permit for one unit (tonne) of carbon emissions. They are issued to UN member states for offsetting projects through the CDM, regulated by the Kyoto Protocol, which is an offset scheme that allows a member state to offset emissions in another country because internationally, it is offset in the atmosphere anyways. 
 
 
 
@@ -197,7 +220,7 @@ Carbon Credit Settlement Platform
 
 "Swift for the carbon markets"
 
-make carbon credits more accessible to everyone.
+Make high-quality carbon credits accessible to everyone.
 
 
 
@@ -210,3 +233,30 @@ make carbon credits more accessible to everyone.
 - Crypto.com Card - [Click Here](https://crypto.com/cards)
 - How to buy carbon credits to offset your footprint - [Click Here](https://climatetrade.com/how-to-buy-carbon-credits-to-offset-your-footprint/)
 - Want To Understand Carbon Credits? Read This - [Click Here](https://www.forbes.com/sites/erikkobayashisolomon/2020/03/13/want-to-understand-carbon-credits-read-this/?sh=490e4feb71aa)
+- More banks join blockchain-based carbon marketplace - [Click Here](https://www.finextra.com/newsarticle/39694/more-banks-join-blockchain-based-carbon-marketplace)
+- Three banks join initiative for voluntary carbon market platform - [Click Here](https://www.reuters.com/business/sustainable-business/three-banks-join-initiative-voluntary-carbon-market-platform-2022-02-15/)
+- Banks launch carbon marketplace - [Click Here](https://www.finextra.com/newsarticle/38438/banks-launch-carbon-marketplace)
+- Carbonplace and Visa team on carbon credit transfer pilot - [Click Here](https://www.finextra.com/newsarticle/40205/carbonplace-and-visa-team-on-carbon-credit-transfer-pilot?utm_medium=rssfinextra&utm_source=finextrafeed)
+- Carbonplace links with Visa on carbon credit transfer trial - [Click Here](https://member.fintech.global/2022/05/10/carbonplace-links-with-visa-on-carbon-credit-transfer-trial/)
+- Carbonplace and Visa Team Up for Carbon Credit Transfer - [Click Here](https://www.prnewswire.com/news-releases/carbonplace-and-visa-team-up-for-carbon-credit-transfer-301542372.html)
+- Carbonplace, NAB and Visa Team Up for Carbon Credit Transfer - [Click Here](https://news.nab.com.au/news/carbonplace-transfer/)
+- How Visa Makes Money - [Click Here](https://www.investopedia.com/how-visa-makes-money-4799098)
+- Carbonplace and Climate Impact X collaborate to revolutionize carbon credit - [Click Here](https://www.natwestgroup.com/news/2022/03/carbonplace-and-climate-impact-x-collaborate-to-revolutionize-carbon-credit-trading.html) 
+- BBVA joins global carbon credit transaction network, Carbonplace - [Click Here](https://www.bbva.com/en/sustainability/bbva-joins-global-carbon-credit-transaction-network-carbonplace/)
+
+
+
+
+
+---
+
+
+
+# Watchlist
+
+- [ICDX](https://www.icdx.co.id/our-market/carbon)
+- net0.com
+- puro.earth
+- [bluesource.com](https://www.bluesource.com/services/carbon-offset-project-development/)
+- southpole.com
+- goldstandard.org
