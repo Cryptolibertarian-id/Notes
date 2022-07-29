@@ -1,5 +1,7 @@
 # Notes on Jobs
 
+
+
 **Senior Quant Developer - C++ Low-Latency Trading Platform**
 
 **Job Responsibilities**
