@@ -27,6 +27,10 @@ Just a brain dump.
 
 
 
+---
+
+
+
 ### Layer 2
 
 - https://ethereum.org/en/layer-2/
@@ -38,6 +42,27 @@ Just a brain dump.
 - https://blog.polygon.technology/a-gentle-introduction-to-zero-knowledge-proofs/
 - [Polygon zkEVM Blog](https://blog.polygon.technology/category/polygon-zk/)
   - https://hermez.io/
+
+
+
+---
+
+
+
+## IFC 
+
+- Keyword Google = IFC Issues Innovative $152 Million Bond
+- [IFC Pressroom Bond Carbon Credit Market](https://pressroom.ifc.org/all/pages/PressDetail.aspx?ID=25834)
+- [IFC launches forestry bond that can pay its coupon using REDD+ credits](https://www.environmental-finance.com/content/news/ifc-launches-forestry-bond-that-can-pay-its-coupon-using-redd-credits.html)
+- [IFC upsizes $152 million forestry bond](https://www.environmental-finance.com/content/news/ifc-upsizes-$152-million-forestry-bond.html)
+- [Environmental Finance - Carbon Channel](https://www.environmental-finance.com/channels/carbon.html)
+- [Environmental Finance - Green Bond](https://www.environmental-finance.com/channels/green-bonds.html)
+- [Apply IFC Financing](https://www.ifc.org/wps/wcm/connect/corp_ext_content/ifc_external_corporate_site/solutions/how-to-apply-for-financing)
+- [Kasigau Corridor REDD+ project in southern Kenya](https://www.worldagroforestry.org/publication/kasigau-corridor-redd-project-southern-kenya)
+
+
+
+---
 
 
 
